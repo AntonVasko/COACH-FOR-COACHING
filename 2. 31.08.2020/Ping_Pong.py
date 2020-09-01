@@ -1,3 +1,4 @@
+#основу коду запозичено з книги Джейсона Р. Бріггса "Python для дітей. Веселий вступ до програмування"
 from tkinter import *
 import random
 import time
